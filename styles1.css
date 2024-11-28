@@ -11,6 +11,9 @@ body {
 h1, h2, h3 {
   color: #444;
 }
+li{
+  color: #0288d1;
+}
 
 .container {
   max-width: 600px;
@@ -43,7 +46,7 @@ header nav ul {
 }
 
 header nav ul li a {
-  color: #fff;
+  color: #ff0000;
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s;
